@@ -19,8 +19,8 @@ export const Soldadura = () => {
             <div className="col-md-10 col-lg-8 ">
                 {/* <img src="/src/img/Imagen1.png" style={{objectFit:"cover", width:"100%"}} alt="" /> */}
                 <SlickerMuebleria
-                    img1={"https://i.postimg.cc/Y9jY6GLg/img1-soldadura.jpg"}
-                    img2={"https://i.postimg.cc/qBWNNmzd/img2-soldadura.jpg"}
+                    img1={"https://i.postimg.cc/YCk5cY35/453475590-516928570711118-7532247393256992797-n.jpg"}
+                    img2={"https://i.postimg.cc/bJGM0Tyt/453233907-1221530215943522-1827205498831614062-n.jpg"}
                     img3={"https://i.postimg.cc/90M684td/img4-soldadura.jpg"}
                     img4={"https://i.postimg.cc/Bb9hDX7Z/img3-soldadura.jpg"}
                     img5={"https://i.postimg.cc/G2QQBqDK/img5-soldadura.jpg"}
